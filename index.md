@@ -6,9 +6,6 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
 * Text Example:
 
 It's very easy to make some words **bold** and other words *italic* with Markdown. You can even [link to Google!](http://google.com)
@@ -91,6 +88,8 @@ When you include a task list in the first comment of an Issue, you will see a he
 
 And, of course emoji!
 
+Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+```markdown
 Syntax highlighted code block
 
 # Header 1
