@@ -8,7 +8,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 * Text Example:
 
-It's very easy to make some words **bold** and other words *italic* with Markdown. You can even [link to Google!](http://google.com)
+It's very easy to make some words **bold** and other words *italic* with Markdown. You can even [link to Google!](http://google.com) And let’s not ~~forget~~
 
 * List Example:
 
@@ -84,6 +84,13 @@ But I have to admit, tasks lists are my favorite:
 - [ ] This is an incomplete item
 
 When you include a task list in the first comment of an Issue, you will see a helpful progress bar in your list of issues. It works in Pull Requests, too!
+
+* Table examples:
+
+First Header | Second Header
+------------ | -------------
+Content from cell 1 | Content from cell 2
+Content in the first column | Content in the second column
 
 And, of course emoji!
 
