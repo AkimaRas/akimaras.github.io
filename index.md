@@ -92,7 +92,7 @@ First Header | Second Header
 Content from cell 1 | Content from cell 2
 Content in the first column | Content in the second column
 
-And, of course emoji!
+And, of course [emoji](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)!
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 ```markdown
